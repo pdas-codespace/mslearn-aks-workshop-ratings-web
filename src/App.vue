@@ -196,7 +196,9 @@ h4 {
 // super-related
 .super-justice {
   background-image:url('/static/img/fruits/smoothies.jpeg');
-  height: 240px;
+  width:600px; /*width of your image*/
+  height:400px; /*height of your image*/
+  
 }
 
 .super-header {
